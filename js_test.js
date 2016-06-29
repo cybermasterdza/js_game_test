@@ -3,4 +3,5 @@ document.write("<p>Texto inserido. Grávida teste.</p>");
 console.log("comando executado: grávida, pêndulo...");
 $(document).ready(function(){
   console.log("jquery funciona com perfeição: Pêndulo, grávida!");
+  console.log("jquery adicionado com sucesso, agora testando o refresh!");
 });
